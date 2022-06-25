@@ -1,1 +1,2 @@
-Freddie Mercury Tribute Website (Under Construction)
+## My first personal project ♥ 
+Freddie Mercury Tribute Website (Under Construction).
