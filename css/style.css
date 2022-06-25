@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+}
+
+section {text-align: center;}
+ul li {list-style: none;}
+img {
+    width: 100vh;
+    height: 55vh;
+    object-fit: cover;
+}
+
+#tribute-info {
+    background-image: url("/img/freddie_header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#title {
+    font-size: 2.5rem;
+    padding-left: 4rem;
+    font-family: 'Dancing Script', 'Segoe UI', Tahoma, sans-serif;
+    color: grey;
+}
+
+.row {padding: 1.5rem 1rem;}
+.container {max-width: 700px; margin: auto;}
+blockquote {
+    margin: 1rem auto;
+    max-width: 600px;
+    color: gray;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 2rem;
+}
+
